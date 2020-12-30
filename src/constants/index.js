@@ -1,5 +1,5 @@
-export const AIRTABLE_API_KEY = "process.env.AIRTABLE_API_KEY";
-export const AIRTABLE_ID = "process.env.AIRTABLE_ID";
+export const AIRTABLE_API_KEY = process.env.AIRTABLE_API_KEY;
+export const AIRTABLE_ID = process.env.AIRTABLE_ID;
 
 export const MODES = [
   {
